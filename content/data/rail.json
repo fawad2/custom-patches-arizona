@@ -1,0 +1,313 @@
+{
+ "items": [
+  {
+   "slug": "custom-woven-patches",
+   "name": "Woven Patches",
+   "kind": "Patch",
+   "print": "Woven",
+   "art": "woven",
+   "tag": "$1.20",
+   "price": "From $1.20 / pc at volume",
+   "lede": "Woven patches are made on a jacquard loom from fine polyester or cotton threads. Because the thread is finer than embroidery, small text and thin lines stay sharp, and the patch is thinner and lighter on the garment.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "5 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Best for",
+     "value": "Small text and fine lines"
+    }
+   ]
+  },
+  {
+   "slug": "custom-chenille-patches",
+   "name": "Chenille Patches",
+   "kind": "Patch",
+   "print": "Chenille",
+   "art": "chenille",
+   "tag": "$4.50",
+   "price": "From $4.50 / pc at volume",
+   "lede": "Chenille is looped yarn built up into a raised, soft pile: the fuzzy texture of a letterman jacket. We make it on felt, with optional embroidered detail and a double-felt base for heavy jackets.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "5 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Wash test",
+     "value": "100 washes, no fraying"
+    }
+   ]
+  },
+  {
+   "slug": "custom-printed-patches",
+   "name": "Printed Patches",
+   "kind": "Patch",
+   "print": "Printed",
+   "art": "printed",
+   "tag": "$0.75",
+   "price": "From $0.75 / pc at volume",
+   "lede": "Printed patches use dye sublimation: heat drives the ink into polyester twill, so the color becomes part of the fabric. That means gradients, photos and fine detail that thread cannot reproduce.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "5 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Colors",
+     "value": "Unlimited, full color"
+    }
+   ]
+  },
+  {
+   "slug": "custom-pvc-patches",
+   "name": "PVC Patches",
+   "kind": "Patch",
+   "print": "PVC",
+   "art": "pvc",
+   "tag": "$0.70",
+   "price": "From $0.70 / pc at volume",
+   "lede": "Soft, flexible PVC molded in your exact colors, flat in 2D or layered in 3D. PVC does not absorb water, does not fray and keeps its color in the sun because the color is molded through the material, not printed on top.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "5 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Mold fee",
+     "value": "None, tooling included"
+    }
+   ]
+  },
+  {
+   "slug": "custom-embroidered-patches",
+   "name": "Embroidered Patches",
+   "kind": "Patch",
+   "print": "Embroidered",
+   "art": "embroidered",
+   "tag": "$0.85",
+   "price": "From $0.85 / pc at 5,000+",
+   "lede": "Thread stitched onto a twill base, in any size, shape and color set you need. Embroidery is the classic patch: textured, durable and easy to read across a room. Order as few as 5 or as many as your whole program needs, with free design and digitizing on every order.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "5 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Colors",
+     "value": "Up to 9 included"
+    }
+   ]
+  },
+  {
+   "slug": "custom-leather-patches",
+   "name": "Leather Patches",
+   "kind": "Patch",
+   "print": "Leather",
+   "art": "leather",
+   "tag": "$2.50",
+   "price": "From $2.50 / pc",
+   "lede": "Leather patches in faux PU, genuine split leather or embroidered leather-backed. Logos are laser engraved, debossed or embossed into the surface, so the mark becomes part of the material.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "5 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Shapes",
+     "value": "Circle, rectangle, hexagon, shield, custom"
+    }
+   ]
+  },
+  {
+   "slug": "custom-sequin-patches",
+   "name": "Sequin Patches",
+   "kind": "Patch",
+   "print": "Sequin",
+   "art": "sequin",
+   "tag": "$2.00",
+   "price": "From $2.00 / pc at volume",
+   "lede": "Sequins catch light from every angle. We make all-sequin patches, sequins with embroidered lettering and outlines, and sequins over a printed design, in any custom shape.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "8 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "10–12 business days after approval"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Fabrics",
+     "value": "Velvet, lace, spandex, mesh, flip sequin"
+    }
+   ]
+  },
+  {
+   "slug": "custom-velcro-patches",
+   "name": "Velcro Patches",
+   "kind": "Patch",
+   "print": "Velcro",
+   "art": "velcro",
+   "tag": "Quote",
+   "price": "Priced on quote",
+   "lede": "Hook-and-loop patches with the hook side already attached. Press them onto any loop field on a hat, jacket panel, pack or plate carrier, and swap them whenever the job changes.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "5 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Styles",
+     "value": "Embroidered, PVC, woven"
+    }
+   ]
+  },
+  {
+   "slug": "custom-silicone-labels",
+   "name": "Silicone Labels",
+   "kind": "Patch",
+   "print": "Silicone",
+   "art": "silicone",
+   "tag": "Quote",
+   "price": "Priced on quote",
+   "lede": "Silicone labels are soft, rubber-like heat transfers with a raised 3D surface. They press straight onto fabric with no sewing, stay flexible, and hold up to sweat and water.",
+   "facts": [
+    {
+     "label": "Application",
+     "value": "Heat press, 160°C / 320°F, 15 s"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Durability",
+     "value": "50+ washes"
+    }
+   ]
+  },
+  {
+   "slug": "custom-keychains",
+   "name": "Keychains",
+   "kind": "Product",
+   "print": "Keychains",
+   "art": "keychain",
+   "tag": "$1.50",
+   "price": "From $1.50 / pc",
+   "lede": "Keychains in PVC (2D or 3D), stainless metal, chenille or embroidery, in your shape and colors. Single or double-sided, with your choice of clasp, split ring or chain.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "50 pieces"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Thickness",
+     "value": "About 2.83 mm"
+    }
+   ]
+  },
+  {
+   "slug": "custom-pvc-shoe-charms",
+   "name": "PVC Shoe Charms",
+   "kind": "Product",
+   "print": "Shoe charm",
+   "art": "charm",
+   "tag": "$0.90",
+   "price": "From $0.90 / pc at volume",
+   "lede": "Small PVC charms with a prong back that pushes through the holes of clogs, garden shoes and slip-on sneakers. 3 mm thick, waterproof and light, in 2D or 3D.",
+   "facts": [
+    {
+     "label": "Minimum",
+     "value": "100 pieces per design"
+    },
+    {
+     "label": "Turnaround",
+     "value": "7–14 business days, delivered"
+    },
+    {
+     "label": "Shipping",
+     "value": "Free, tracked, anywhere in Arizona"
+    },
+    {
+     "label": "Size",
+     "value": "0.47 in wide"
+    }
+   ]
+  }
+ ],
+ "start": 4
+}

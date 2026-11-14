@@ -1,0 +1,3564 @@
+{
+ "about": {
+  "title": "About Custom Patches Arizona",
+  "description": "Custom Patches Arizona makes embroidered, PVC, chenille and leather patches to order for Arizona teams, crews, clubs and brands, backed by two decades of embroidery experience.",
+  "canonical": "https://custompatchesarizona.com/about/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "contact": {
+  "title": "Get a Free Quote | Custom Patches Arizona",
+  "description": "Request a free quote and digital mockup for custom patches in Arizona. Upload your artwork, choose a patch type and quantity, and we reply by email.",
+  "canonical": "https://custompatchesarizona.com/contact/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-anime-patches": {
+  "title": "Custom Anime Patches Arizona | Iron-On, Cosplay",
+  "description": "Custom anime-style iron-on patches for cosplay, convention merch, clubs and artists in Arizona. From $5 each, 5-piece minimum.",
+  "canonical": "https://custompatchesarizona.com/custom-anime-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Anime-Style Patches",
+    "serviceType": "Anime-Style Patches",
+    "description": "Custom anime-style iron-on patches for cosplay, convention merch, clubs and artists in Arizona. From $5 each, 5-piece minimum.",
+    "url": "https://custompatchesarizona.com/custom-anime-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Anime-Style Patches",
+      "item": "https://custompatchesarizona.com/custom-anime-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Can you make a fully custom design?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, from your own artwork or sketch."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does it take?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "About 7–10 business days after design approval."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I use characters from a show?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Only with permission from the rights holder. Original fan-style art is always fine."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-baseball-patches": {
+  "title": "Custom Baseball Patches Arizona | Team & League",
+  "description": "Custom baseball and softball team patches for Arizona little league, high school and travel teams. Caps, jerseys and jackets. Free artwork and proof.",
+  "canonical": "https://custompatchesarizona.com/custom-baseball-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Baseball Patches",
+    "serviceType": "Baseball Patches",
+    "description": "Custom baseball and softball team patches for Arizona little league, high school and travel teams. Caps, jerseys and jackets. Free artwork and proof.",
+    "url": "https://custompatchesarizona.com/custom-baseball-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Baseball Patches",
+      "item": "https://custompatchesarizona.com/custom-baseball-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What materials hold up for a full season?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered, woven and PVC patches all last a full season of play and washing."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I customize size and shape?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, size, shape, colors and design are all custom."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is design free?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, with revisions until you approve."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can you make MLB team patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We only make designs you own or are licensed to use. We are happy to design an original team mark."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-basketball-patches": {
+  "title": "Custom Basketball Patches Arizona | Team & Tournament",
+  "description": "Custom basketball team, tournament and fan patches for Arizona schools, clubs and rec leagues. Embroidered, chenille and PVC. Free design setup.",
+  "canonical": "https://custompatchesarizona.com/custom-basketball-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Basketball Patches",
+    "serviceType": "Basketball Patches",
+    "description": "Custom basketball team, tournament and fan patches for Arizona schools, clubs and rec leagues. Embroidered, chenille and PVC. Free design setup.",
+    "url": "https://custompatchesarizona.com/custom-basketball-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Basketball Patches",
+      "item": "https://custompatchesarizona.com/custom-basketball-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Do you work with schools and tournaments?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, with bulk pricing, quick turnaround and free design setup."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I order fan patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, for jackets, hoodies and bags, using your own or licensed artwork."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the turnaround?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Door-to-door in about 10 days after design approval."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-bingo-patches": {
+  "title": "Custom Bingo Patches Arizona | Bingo Ball Iron-On",
+  "description": "Embroidered and PVC bingo ball and game patches for Arizona bingo halls, charity nights, clubs and fundraisers. Iron-on, sew-on or Velcro.",
+  "canonical": "https://custompatchesarizona.com/custom-bingo-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Bingo Patches",
+    "serviceType": "Bingo Patches",
+    "description": "Embroidered and PVC bingo ball and game patches for Arizona bingo halls, charity nights, clubs and fundraisers. Iron-on, sew-on or Velcro.",
+    "url": "https://custompatchesarizona.com/custom-bingo-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Bingo Patches",
+      "item": "https://custompatchesarizona.com/custom-bingo-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Can I order just one?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The minimum is 10 per design."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I apply iron-on?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Press with a hot iron for 20–30 seconds through a thin cloth. Sew the edges for extra hold."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I add our club name?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, and 10 or more per design lowers the per-piece price."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-chenille-patches": {
+  "title": "Custom Chenille Patches Arizona | Varsity Letters",
+  "description": "Chenille varsity letters and patches for Arizona high schools, colleges, teams and streetwear brands. Double-felt backing, embroidery detail, 5-piece minimum, free tracked shipping.",
+  "canonical": "https://custompatchesarizona.com/custom-chenille-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Chenille Patches",
+    "serviceType": "Chenille Patches",
+    "description": "Chenille varsity letters and patches for Arizona high schools, colleges, teams and streetwear brands. Double-felt backing, embroidery detail, 5-piece minimum, free tracked shipping.",
+    "url": "https://custompatchesarizona.com/custom-chenille-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Chenille Patches",
+      "item": "https://custompatchesarizona.com/custom-chenille-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What does chenille mean?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Chenille is French for caterpillar, after the fuzzy, raised yarn texture."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How are chenille patches made?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yarn is looped in layers onto a felt base, with short lengths caught between longer strands to build the raised pile."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are they iron-on?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Iron-on chenille lasts 50+ washes when applied with a heat press at 285°F. For heavy letterman jackets, sew-on is the most permanent."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I wash chenille patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Wash cold, inside out, with mild detergent. Our patches hold up through 100 test washes without fraying."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Why does chenille cost more than embroidery?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "It needs dedicated chenille machines and more material per patch. In return it has the premium look buyers associate with varsity gear."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Chenille or embroidered?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Chenille suits bold, simple shapes with large fill areas. Embroidery suits fine detail and small text. Many letters combine both."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I mix backings in one order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Note the split on your quote request."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-cowboy-patches": {
+  "title": "Custom Cowboy Patches Arizona | Western & Rodeo",
+  "description": "Embroidered cowboy hat, steer skull and western star patches for Arizona rodeos, ranches, western brands and riding clubs. From $1.50 each at 1,000.",
+  "canonical": "https://custompatchesarizona.com/custom-cowboy-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Cowboy & Western Patches",
+    "serviceType": "Cowboy & Western Patches",
+    "description": "Embroidered cowboy hat, steer skull and western star patches for Arizona rodeos, ranches, western brands and riding clubs. From $1.50 each at 1,000.",
+    "url": "https://custompatchesarizona.com/custom-cowboy-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Cowboy & Western Patches",
+      "item": "https://custompatchesarizona.com/custom-cowboy-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is the minimum order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "10 pieces per design."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you make skull patches for vests?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, large back patches and smaller jacket and bag patches."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I apply iron-on patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Press with a hot iron through a thin cloth for 20–30 seconds and let it cool. Sew the edges on denim or vests."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you offer bulk orders for rodeos and clubs?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Larger orders lower the per-patch cost."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-embroidered-patches": {
+  "title": "Custom Embroidered Patches Arizona | 5 Piece Minimum",
+  "description": "Custom embroidered patches for Arizona teams, crews, clubs and brands. 5-piece minimum, free digitizing and proof, from $0.85 each, free tracked shipping anywhere in Arizona.",
+  "canonical": "https://custompatchesarizona.com/custom-embroidered-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Embroidered Patches",
+    "serviceType": "Embroidered Patches",
+    "description": "Custom embroidered patches for Arizona teams, crews, clubs and brands. 5-piece minimum, free digitizing and proof, from $0.85 each, free tracked shipping anywhere in Arizona.",
+    "url": "https://custompatchesarizona.com/custom-embroidered-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Embroidered Patches",
+      "item": "https://custompatchesarizona.com/custom-embroidered-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What does it cost to use more than 9 colors?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The first 9 thread colors are free. You can go up to 12; colors 10–12 add a small charge that we show on your quote before you approve anything."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the difference between embroidered and woven patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered patches are stitched onto a fabric base, which gives raised texture. Woven patches are made by interlacing fine threads on a loom, which gives a flatter patch that holds smaller text and finer detail."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does an embroidered patch order take?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Usually 7–14 business days from proof approval to delivery at your Arizona address. Rush production is available; tell us your date when you ask for a quote."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What fabric do you use?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Cotton-rich twill is the standard base because it is soft, light and stitches cleanly. Polyester, wool and other bases are available for special looks."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How much of the patch is embroidered?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Typical coverage is 75–85%. Anything up to 99% costs the same. Full 100% coverage costs a little more, and we show you a preview so you can compare."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long do embroidered patches last?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Two to three years of regular wear and washing is normal, and much longer with cold washes and air drying."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What sizes work best?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Cap fronts take 2.25–2.5 in, left chest 4–5 in, across the chest 10–12 in and jacket backs 12–14 in. Any custom size is possible."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-firefighter-patches": {
+  "title": "Custom Firefighter Patches Arizona | Station & Crew",
+  "description": "Embroidered and PVC patches for Arizona fire departments, stations, wildland crews and volunteer companies. Shoulder, name and station patches with bulk pricing.",
+  "canonical": "https://custompatchesarizona.com/custom-firefighter-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Firefighter Patches",
+    "serviceType": "Firefighter Patches",
+    "description": "Embroidered and PVC patches for Arizona fire departments, stations, wildland crews and volunteer companies. Shoulder, name and station patches with bulk pricing.",
+    "url": "https://custompatchesarizona.com/custom-firefighter-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Firefighter Patches",
+      "item": "https://custompatchesarizona.com/custom-firefighter-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What materials do you use?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidery, PVC or woven, chosen for how and where the patch is worn."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I order for the entire station or department?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Bulk orders are available for stations, districts and departments of any size."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you make name patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, with names, ranks or unit numbers for uniforms, jackets and turnout gear."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does production take?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Most orders arrive 7–14 business days after proof approval. Complex designs and very large runs can take longer; we confirm before you order."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-football-patches": {
+  "title": "Custom Football Patches Arizona | Team & Fan Club",
+  "description": "Custom football patches for Arizona high school teams, youth leagues, booster clubs and fan clubs. Jackets, vests and hats. 5-piece minimum.",
+  "canonical": "https://custompatchesarizona.com/custom-football-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Football Patches",
+    "serviceType": "Football Patches",
+    "description": "Custom football patches for Arizona high school teams, youth leagues, booster clubs and fan clubs. Jackets, vests and hats. 5-piece minimum.",
+    "url": "https://custompatchesarizona.com/custom-football-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Football Patches",
+      "item": "https://custompatchesarizona.com/custom-football-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Do you make patches for school or club teams?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, with low minimums, bulk discounts and free design setup."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can you make NFL team patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Only for licensed buyers. We are glad to design an original fan club or team mark."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How fast are they?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "About 10 days after design approval."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-hat-patches": {
+  "title": "Custom Hat Patches Arizona | Trucker, Snapback, Leather",
+  "description": "Custom hat patches in embroidery, leather, PVC and woven for Arizona hat brands, businesses and teams. Sized to curve on caps, 5-piece minimum.",
+  "canonical": "https://custompatchesarizona.com/custom-hat-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Hat Patches",
+    "serviceType": "Hat Patches",
+    "description": "Custom hat patches in embroidery, leather, PVC and woven for Arizona hat brands, businesses and teams. Sized to curve on caps, 5-piece minimum.",
+    "url": "https://custompatchesarizona.com/custom-hat-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Hat Patches",
+      "item": "https://custompatchesarizona.com/custom-hat-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What material is best for hats?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidery for a classic look, PVC and leather for a modern, durable look, woven for detailed designs."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long do hat patches last?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Good embroidered or PVC patches handle heavy wear and about 50 washes with cold water and air drying."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do iron-on patches work on trucker hats?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. They apply with a household iron or hat press and hold well."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I get names or initials?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, embroidered names, initials and monograms."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-hockey-patches": {
+  "title": "Custom Hockey Patches Arizona | Jersey & Captain",
+  "description": "Custom hockey jersey, captain and team patches for Arizona youth and adult leagues, clubs and fan groups. Free proof, bulk team pricing.",
+  "canonical": "https://custompatchesarizona.com/custom-hockey-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Hockey Patches",
+    "serviceType": "Hockey Patches",
+    "description": "Custom hockey jersey, captain and team patches for Arizona youth and adult leagues, clubs and fan groups. Free proof, bulk team pricing.",
+    "url": "https://custompatchesarizona.com/custom-hockey-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Hockey Patches",
+      "item": "https://custompatchesarizona.com/custom-hockey-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Is there a minimum?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. Order a few patches for one player or a full set for the league."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I add names and numbers?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, and every design gets a free proof first."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which backing is best?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sew-on or Velcro for jerseys, iron-on for jackets and hoodies."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I see a sample first?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. A sample lets you check quality before a large run."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-holiday-patches": {
+  "title": "Custom Holiday Patches Arizona | Christmas & Valentine's",
+  "description": "Custom Christmas, Valentine's and holiday patches for family outfits, stockings, gifts and holiday uniforms. Iron-on standard, sew-on available.",
+  "canonical": "https://custompatchesarizona.com/custom-holiday-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Holiday Patches",
+    "serviceType": "Holiday Patches",
+    "description": "Custom Christmas, Valentine's and holiday patches for family outfits, stockings, gifts and holiday uniforms. Iron-on standard, sew-on available.",
+    "url": "https://custompatchesarizona.com/custom-holiday-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Holiday Patches",
+      "item": "https://custompatchesarizona.com/custom-holiday-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "How are holiday patches applied?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Iron-on is standard; sewing adds durability."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I combine designs?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, mix icons in one order or add name patches."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I care for them?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Wash inside out in cold water, avoid bleach and high heat, and re-press or stitch any lifting edge."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-jacket-patches": {
+  "title": "Custom Jacket Patches Arizona | Back Patches & Varsity",
+  "description": "Custom back patches, chest patches and varsity letters for denim, leather and letterman jackets. Embroidered, chenille, leather and PVC for Arizona brands, teams and clubs.",
+  "canonical": "https://custompatchesarizona.com/custom-jacket-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Jacket Patches",
+    "serviceType": "Jacket Patches",
+    "description": "Custom back patches, chest patches and varsity letters for denim, leather and letterman jackets. Embroidered, chenille, leather and PVC for Arizona brands, teams and clubs.",
+    "url": "https://custompatchesarizona.com/custom-jacket-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Jacket Patches",
+      "item": "https://custompatchesarizona.com/custom-jacket-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What jacket patches do you make?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered, woven, chenille, leather and PVC."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long until I receive them?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Typically 7–10 business days after you approve the design."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you make large chenille patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, oversized high-pile chenille in custom size, color and backing."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-keychains": {
+  "title": "Custom Keychains Arizona | PVC, Metal, Embroidered",
+  "description": "Custom PVC, metal, chenille and embroidered keychains for Arizona giveaways, teams, real estate, car clubs and events. Single or double-sided, from $1.50 each.",
+  "canonical": "https://custompatchesarizona.com/custom-keychains/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Keychains",
+    "serviceType": "Keychains",
+    "description": "Custom PVC, metal, chenille and embroidered keychains for Arizona giveaways, teams, real estate, car clubs and events. Single or double-sided, from $1.50 each.",
+    "url": "https://custompatchesarizona.com/custom-keychains/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom products",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Keychains",
+      "item": "https://custompatchesarizona.com/custom-keychains/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Why are simple shapes cheaper?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Circles and squares use simpler molds, which lowers production cost."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I print on both sides?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, choose single or double-sided."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I order fewer than 50?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, but the factory minimum is 50, so smaller orders cost the same as 50."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I see a physical sample first?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We send a digital draft for approval instead. For large orders, ask us about sample options."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can the design print to the edge?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. Leave a border of at least 1/32 in (0.03125 in)."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I reuse the same mold later?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Once paid for, the stamp or mold can be reused for future orders and other products."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-law-enforcement-patches": {
+  "title": "Custom Law Enforcement Patches Arizona | Police & Security",
+  "description": "Shoulder, unit and rank patches for Arizona agencies, campus police and licensed security companies. Embroidered or PVC, subdued options, up to 8 free colors.",
+  "canonical": "https://custompatchesarizona.com/custom-law-enforcement-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Law Enforcement Patches",
+    "serviceType": "Law Enforcement Patches",
+    "description": "Shoulder, unit and rank patches for Arizona agencies, campus police and licensed security companies. Embroidered or PVC, subdued options, up to 8 free colors.",
+    "url": "https://custompatchesarizona.com/custom-law-enforcement-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Law Enforcement Patches",
+      "item": "https://custompatchesarizona.com/custom-law-enforcement-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What patch types can you make?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered, PVC and woven. PVC is the most durable outdoors."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which backing is most popular?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Hook and loop, because it attaches and removes easily."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I choose colors and size?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Up to eight colors are included and any size or shape is possible."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Who can order agency patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The agency or its authorized vendor. We verify before producing official insignia."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-leather-patches": {
+  "title": "Custom Leather Patches Arizona | Genuine & Faux",
+  "description": "Genuine and faux leather patches, laser engraved, debossed or embroidered, for Arizona hat brands, western wear, breweries and clubs. 5-piece minimum, from $2.50 each.",
+  "canonical": "https://custompatchesarizona.com/custom-leather-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Leather Patches",
+    "serviceType": "Leather Patches",
+    "description": "Genuine and faux leather patches, laser engraved, debossed or embroidered, for Arizona hat brands, western wear, breweries and clubs. 5-piece minimum, from $2.50 each.",
+    "url": "https://custompatchesarizona.com/custom-leather-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Leather Patches",
+      "item": "https://custompatchesarizona.com/custom-leather-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What are the most popular shapes for leather hat patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Circle, rectangle, oval, hexagon and shield. Rectangles and hexagons sit best on trucker and snapback front panels."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What size should a leather hat patch be?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Most are 2–3.5 in wide, depending on the hat and how much detail is in the logo."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I attach leather patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sewing is the most secure. Iron-on with a heat press is reliable too, and pre-applied backing is available for hat production."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How is my logo put on the leather?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Usually by laser engraving, which burns a sharp single-color image into the surface. Debossing and embossing are also available."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I wash clothes with leather patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Hand wash in lukewarm water and dry flat so the patch stays aligned."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Faux, genuine or embroidered leather?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Faux ($2.50) is consistent and economical in bulk. Genuine ($5.00) has natural grain and ages well. Embroidered leather-backed ($8.00) is the richest look."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you supply hat brands in bulk?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, from 50 pieces to 10,000+, with factory-ready iron-on backing that works on standard heat presses."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-morale-patches": {
+  "title": "Custom Morale Patches Arizona | PVC & Embroidered",
+  "description": "Custom morale patches in PVC or embroidery with hook-and-loop backing for Arizona units, crews, airsoft teams and clubs. Bulk discounts, 5-piece minimum.",
+  "canonical": "https://custompatchesarizona.com/custom-morale-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Morale Patches",
+    "serviceType": "Morale Patches",
+    "description": "Custom morale patches in PVC or embroidery with hook-and-loop backing for Arizona units, crews, airsoft teams and clubs. Bulk discounts, 5-piece minimum.",
+    "url": "https://custompatchesarizona.com/custom-morale-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Morale Patches",
+      "item": "https://custompatchesarizona.com/custom-morale-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What are morale patches used for?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Building team spirit, marking events and sharing inside jokes. Most are PVC or embroidered for durability."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I design one?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Pick PVC or embroidery, send artwork or an idea, and choose a backing. We send a free mockup."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which backing is best?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Velcro to swap patches, iron-on for permanent wear, adhesive for temporary use."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I order for my whole unit?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Larger orders get lower per-piece pricing."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-motorcycle-club-patches": {
+  "title": "Custom MC Patches Arizona | 6-Piece Colors Set",
+  "description": "Complete motorcycle club colors: top and bottom rockers, center patch, MC cube, name tag and side rocker, matched in one proof. Merrow borders, sew-on, Arizona shipping.",
+  "canonical": "https://custompatchesarizona.com/custom-motorcycle-club-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Motorcycle Club Patches",
+    "serviceType": "Motorcycle Club Patches",
+    "description": "Complete motorcycle club colors: top and bottom rockers, center patch, MC cube, name tag and side rocker, matched in one proof. Merrow borders, sew-on, Arizona shipping.",
+    "url": "https://custompatchesarizona.com/custom-motorcycle-club-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Motorcycle Club Patches",
+      "item": "https://custompatchesarizona.com/custom-motorcycle-club-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is in a full set?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Six pieces designed together with matched borders, threads and backing, approved in one digital proof."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the minimum?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "One per design on full sets. Standalone patches have a 5-piece minimum."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Sew-on or iron-on?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sew-on for leather and denim. Iron-on can loosen from flexing, heat and rain."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can later orders match?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. We store your digitized files so thread, border and backing match on every reorder."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Top rocker or bottom rocker?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The top rocker sits above the center patch with the club name; the bottom rocker sits below with territory or chapter."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-name-patches": {
+  "title": "Custom Name Patches Arizona | Embroidered Name Tags",
+  "description": "Embroidered, PVC and chenille name patches for Arizona work crews, healthcare and hospitality staff, teams and motorcycle clubs. From $0.99 each, no setup fees.",
+  "canonical": "https://custompatchesarizona.com/custom-name-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Name Patches",
+    "serviceType": "Name Patches",
+    "description": "Embroidered, PVC and chenille name patches for Arizona work crews, healthcare and hospitality staff, teams and motorcycle clubs. From $0.99 each, no setup fees.",
+    "url": "https://custompatchesarizona.com/custom-name-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Name Patches",
+      "item": "https://custompatchesarizona.com/custom-name-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Which material should I choose?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered twill for leather and denim, woven for fine text, PVC for waterproof outdoor use, chenille for a premium varsity finish."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I see it before production?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. You get a digital proof with unlimited revisions."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What shapes and finishes are available?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Circle, square, shield, rocker and die-cut, with merrowed or heat-cut edges, 3D puff, and matte or glossy PVC."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you make name patches for hats?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, in hat sizes that curve well and stay low-profile."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-patches": {
+  "title": "All Custom Patches & Products | Custom Patches Arizona",
+  "description": "Every patch type, custom product and patch style we make for Arizona: embroidered, PVC, chenille, woven, printed, leather, sequin, silicone, Velcro, keychains, shoe charms and more.",
+  "canonical": "https://custompatchesarizona.com/custom-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-printed-patches": {
+  "title": "Custom Printed Patches Arizona | Sublimated Full Color",
+  "description": "Full-color sublimated patches for photos, gradients and detailed art. Arizona sunsets, event merch, memorials and brand logos. 5-piece minimum, free tracked shipping in Arizona.",
+  "canonical": "https://custompatchesarizona.com/custom-printed-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Printed Patches",
+    "serviceType": "Printed Patches",
+    "description": "Full-color sublimated patches for photos, gradients and detailed art. Arizona sunsets, event merch, memorials and brand logos. 5-piece minimum, free tracked shipping in Arizona.",
+    "url": "https://custompatchesarizona.com/custom-printed-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Printed Patches",
+      "item": "https://custompatchesarizona.com/custom-printed-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Can you make a patch from a photo?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Photos, logos and personal images all work. Send the highest resolution file you have."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How are printed patches made?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "With dye sublimation. Digital ink is heat-transferred into polyester twill so the design becomes part of the fabric."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does a printed patch need a border?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We recommend one. A merrow or embroidered border prevents fraying and protects the edge."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I use very detailed artwork?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, but avoid tiny lettering; text should stay large enough to read at the patch size."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can printed patches be washed?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Wash gently and cold to keep colors bright."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Printed or woven?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Woven patches build the image from fine thread with no base fabric. Printed patches put full-color images on twill, which handles photos and gradients best."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-pvc-patches": {
+  "title": "Custom PVC Patches Arizona | Waterproof 2D & 3D",
+  "description": "Waterproof, UV-resistant 2D and 3D PVC patches for Arizona outdoor brands, first responders, tactical teams and businesses. No mold fees, 5-piece minimum, free tracked shipping in Arizona.",
+  "canonical": "https://custompatchesarizona.com/custom-pvc-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "PVC Patches",
+    "serviceType": "PVC Patches",
+    "description": "Waterproof, UV-resistant 2D and 3D PVC patches for Arizona outdoor brands, first responders, tactical teams and businesses. No mold fees, 5-piece minimum, free tracked shipping in Arizona.",
+    "url": "https://custompatchesarizona.com/custom-pvc-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "PVC Patches",
+      "item": "https://custompatchesarizona.com/custom-pvc-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is a PVC patch?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A patch molded from soft polyvinyl chloride. It is waterproof, flexible and reproduces fine lines and small text that thread cannot hold at small sizes."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are PVC patches waterproof and washable?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. They do not absorb water and can go through the washing machine. Wash cold and inside out if the patch is attached with adhesive."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Will they fade in the Arizona sun?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "PVC is UV-resistant and the color runs through each layer, so it does not fade, fray, crack or peel under normal outdoor use."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I iron on a PVC patch?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Not with a household iron directly on the patch. Use hook-and-loop, sew-on or adhesive backing, or a heat press with fabric adhesive at 160°C / 320°F for 20–30 seconds."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How thick are they?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Standard patches are about 2 mm, with raised design elements around 0.7 mm. We also make 3 mm patches for tactical and heavy-fabric use."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is there a mold fee?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. Tooling is included in the patch price, and reorders of the same design get 25% off per piece."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I get a physical sample before a big order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Every order gets a free digital proof, and large orders can get a pre-production sample; the cost depends on order size."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the difference between 2D and 3D PVC?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "2D has flat layers and costs less. 3D adds sculpted depth for a premium feel."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-pvc-shoe-charms": {
+  "title": "Custom PVC Shoe Charms Arizona | Clog Charms",
+  "description": "Custom 2D and 3D PVC shoe charms for clogs, sandals and slip-ons. Brand merch, team gifts and resale for Arizona businesses and events. Mold included.",
+  "canonical": "https://custompatchesarizona.com/custom-pvc-shoe-charms/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "PVC Shoe Charms",
+    "serviceType": "PVC Shoe Charms",
+    "description": "Custom 2D and 3D PVC shoe charms for clogs, sandals and slip-ons. Brand merch, team gifts and resale for Arizona businesses and events. Mold included.",
+    "url": "https://custompatchesarizona.com/custom-pvc-shoe-charms/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom products",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "PVC Shoe Charms",
+      "item": "https://custompatchesarizona.com/custom-pvc-shoe-charms/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "How do I add charms to clogs?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Hold the top strap and push the charm base through a hole from the outside."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I remove them without damage?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Push from the inside while gently twisting and lifting from the edges. Do not pull from the outside."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I mix designs in one order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. Each design needs its own mold, so each is a separate order."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I order fewer than 100?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, but the price is the same as 100, so most customers order at least 100."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is there a mold fee?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. Mold, production and shipping are included."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are they waterproof?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. PVC resists water and scratches, so they hold up outdoors."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-rocker-patches": {
+  "title": "Custom Rocker Patches Arizona | Top & Bottom Rockers",
+  "description": "Embroidered top and bottom rockers in 10, 11 and 12 in widths with merrow or satin borders. Sew-on, iron-on or Velcro. From $1.95 each at 200 pieces.",
+  "canonical": "https://custompatchesarizona.com/custom-rocker-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Rocker Patches",
+    "serviceType": "Rocker Patches",
+    "description": "Embroidered top and bottom rockers in 10, 11 and 12 in widths with merrow or satin borders. Sew-on, iron-on or Velcro. From $1.95 each at 200 pieces.",
+    "url": "https://custompatchesarizona.com/custom-rocker-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Rocker Patches",
+      "item": "https://custompatchesarizona.com/custom-rocker-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is a rocker?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A curved banner patch worn above or below a larger back patch."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can anyone wear a bottom rocker?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Many riders avoid territory-style bottom rockers unless they belong to the group, because they can read as claiming an area."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What size should I choose?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Match the rocker width to your back patch and panel; 11 in is the adult standard."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What file format do you need?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "PNG, PDF or AI work best. For text-only rockers, send the wording and font choice."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does production take?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "About 8 business days after approval for around 100 pieces. Larger runs take longer."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-sequin-patches": {
+  "title": "Custom Sequin Patches Arizona | Dance & Cheer",
+  "description": "Custom sequin patches for Arizona dance teams, cheer squads, performers and fashion brands. Sequin with embroidery or print, any shape, sew-on recommended.",
+  "canonical": "https://custompatchesarizona.com/custom-sequin-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Sequin Patches",
+    "serviceType": "Sequin Patches",
+    "description": "Custom sequin patches for Arizona dance teams, cheer squads, performers and fashion brands. Sequin with embroidery or print, any shape, sew-on recommended.",
+    "url": "https://custompatchesarizona.com/custom-sequin-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Sequin Patches",
+      "item": "https://custompatchesarizona.com/custom-sequin-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What are sequins made of?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Modern sequins are usually Mylar or plastic."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I iron sequin patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, from the reverse side, with the patch pinned in place. Never iron the sequins directly; they can melt."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I attach them?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sew by hand or machine for the best hold, or use fabric glue for a quick application."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What stitch and needle should I use?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A regular stitch length of 2.5–3 with a 16/100 ballpoint needle. Use zig-zag or a serger on knits and remove sequins from the seam allowance first."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What are 3D sequin patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Raised sequin designs that add dimension on hats and sportswear."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-silicone-labels": {
+  "title": "Custom Silicone Labels Arizona | Heat Transfer 3D",
+  "description": "Soft, waterproof silicone heat-transfer labels with raised 3D detail for Arizona athletic, outdoor and fashion brands. Heat press in 15 seconds, lasts 50+ washes.",
+  "canonical": "https://custompatchesarizona.com/custom-silicone-labels/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Silicone Labels",
+    "serviceType": "Silicone Labels",
+    "description": "Soft, waterproof silicone heat-transfer labels with raised 3D detail for Arizona athletic, outdoor and fashion brands. Heat press in 15 seconds, lasts 50+ washes.",
+    "url": "https://custompatchesarizona.com/custom-silicone-labels/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Silicone Labels",
+      "item": "https://custompatchesarizona.com/custom-silicone-labels/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What are silicone labels?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Raised, rubber-like labels made from silicone polymer that tolerate hot and cold temperatures."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How are they attached?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "With a heat press. The self-adhesive backing bonds at 160°C / 320°F in about 15 seconds."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are they safe on clothing?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. They are soft and gentle against skin."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are they waterproof?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, they handle sweat and rain well. Long submersion or a poorly sealed edge can let water under, so press firmly."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are they better for the environment than PVC?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "They are not fully biodegradable, but silicone is generally considered a better choice than PVC, lasts a long time and is recyclable."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I get a price?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Send the label size, quantity and artwork through the quote form and we will reply with per-piece pricing."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-soccer-patches": {
+  "title": "Custom Soccer Patches Arizona | Club & Number Patches",
+  "description": "Custom soccer club crests, player numbers and name patches for Arizona clubs, schools and leagues. Iron-on in under a minute, bulk team pricing.",
+  "canonical": "https://custompatchesarizona.com/custom-soccer-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Soccer Patches",
+    "serviceType": "Soccer Patches",
+    "description": "Custom soccer club crests, player numbers and name patches for Arizona clubs, schools and leagues. Iron-on in under a minute, bulk team pricing.",
+    "url": "https://custompatchesarizona.com/custom-soccer-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Soccer Patches",
+      "item": "https://custompatchesarizona.com/custom-soccer-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Can I use my club logo and colors?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, in embroidered, woven or PVC."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is there a minimum?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. Bulk orders get lower pricing."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you make number patches?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, with custom fonts and colors."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does it take?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "7–14 business days from design approval."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-tactical-patches": {
+  "title": "Custom Tactical Patches Arizona | Velcro & PVC",
+  "description": "Hook-and-loop tactical patches in PVC, embroidery and woven for Arizona units, security teams, airsoft and contractors. Bulk orders and reorders on file.",
+  "canonical": "https://custompatchesarizona.com/custom-tactical-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Tactical Patches",
+    "serviceType": "Tactical Patches",
+    "description": "Hook-and-loop tactical patches in PVC, embroidery and woven for Arizona units, security teams, airsoft and contractors. Bulk orders and reorders on file.",
+    "url": "https://custompatchesarizona.com/custom-tactical-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Tactical Patches",
+      "item": "https://custompatchesarizona.com/custom-tactical-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What types do you offer?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered, PVC and woven. PVC is the most durable outdoors."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the turnaround?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Usually 7–14 business days from approval. Expedited shipping is available on request."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you support large orders and reorders?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, with stored files, consistent pricing and coordinated proofing for ongoing contracts."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-velcro-patches": {
+  "title": "Custom Velcro Patches Arizona | Hook & Loop",
+  "description": "Hook-and-loop patches in embroidered, PVC or woven for Arizona first responders, security, airsoft and work teams. Subdued and IR options, 5-piece minimum.",
+  "canonical": "https://custompatchesarizona.com/custom-velcro-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Velcro Patches",
+    "serviceType": "Velcro Patches",
+    "description": "Hook-and-loop patches in embroidered, PVC or woven for Arizona first responders, security, airsoft and work teams. Subdued and IR options, 5-piece minimum.",
+    "url": "https://custompatchesarizona.com/custom-velcro-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Velcro Patches",
+      "item": "https://custompatchesarizona.com/custom-velcro-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is the minimum order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "5 patches."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does production take?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "7–14 business days from design approval, with rush available on request."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What types of Velcro patches do you make?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered, PVC and woven, each with hook-and-loop backing."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are they suitable for military and tactical gear?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. They fit plate carriers, chest rigs and MOLLE gear and come in subdued and IR-reflective options."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I attach one?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Press it firmly onto any loop surface. No sewing or ironing."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What files do you accept?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "AI, EPS, PDF, PNG and JPG. If you only have a sketch, we make a digital mockup at no charge."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "custom-woven-patches": {
+  "title": "Custom Woven Patches Arizona | Fine Detail, Thin Profile",
+  "description": "Thin, detailed woven patches and labels for Arizona apparel brands, boutiques and teams. Small text stays sharp. Free design, free tracked shipping in Arizona.",
+  "canonical": "https://custompatchesarizona.com/custom-woven-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Woven Patches",
+    "serviceType": "Woven Patches",
+    "description": "Thin, detailed woven patches and labels for Arizona apparel brands, boutiques and teams. Small text stays sharp. Free design, free tracked shipping in Arizona.",
+    "url": "https://custompatchesarizona.com/custom-woven-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Custom patches",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Woven Patches",
+      "item": "https://custompatchesarizona.com/custom-woven-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "How are woven patches made?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "On a jacquard loom that interlaces polyester or cotton threads into the design, instead of stitching thread onto a base."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are woven patches good for small designs?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. The finer thread keeps small text and thin details readable."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Woven or embroidered?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Woven is thinner, sleeker and holds more detail. Embroidered is thicker, more textured and generally the more rugged of the two."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I wash them?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Wash the garment gently; hand washing keeps woven patches looking new the longest."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which backing do you recommend?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sew-on for the strongest hold, or iron-on with paper backing for a clean feel on light garments."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Why is payment taken upfront?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Every order is made to your design and cannot be resold, so production starts once the order is paid and the proof is approved."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "home": {
+  "title": "Custom Patches Arizona | Embroidered, PVC & Chenille Patches",
+  "description": "Custom embroidered, PVC, chenille, woven, printed and leather patches for Arizona. 5-piece minimum, free design and digital proof, 7–14 business days delivered, free tracked shipping anywhere in Arizona.",
+  "canonical": "https://custompatchesarizona.com/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Custom patch manufacturing",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    },
+    "hasOfferCatalog": {
+     "@type": "OfferCatalog",
+     "name": "Custom patches and products",
+     "itemListElement": [
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Embroidered Patches",
+        "url": "https://custompatchesarizona.com/custom-embroidered-patches/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "PVC Patches",
+        "url": "https://custompatchesarizona.com/custom-pvc-patches/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Chenille Patches",
+        "url": "https://custompatchesarizona.com/custom-chenille-patches/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Woven Patches",
+        "url": "https://custompatchesarizona.com/custom-woven-patches/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Printed Patches",
+        "url": "https://custompatchesarizona.com/custom-printed-patches/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Leather Patches",
+        "url": "https://custompatchesarizona.com/custom-leather-patches/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Silicone Labels",
+        "url": "https://custompatchesarizona.com/custom-silicone-labels/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Sequin Patches",
+        "url": "https://custompatchesarizona.com/custom-sequin-patches/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Velcro Patches",
+        "url": "https://custompatchesarizona.com/custom-velcro-patches/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Keychains",
+        "url": "https://custompatchesarizona.com/custom-keychains/"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "PVC Shoe Charms",
+        "url": "https://custompatchesarizona.com/custom-pvc-shoe-charms/"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What types of custom patches do you make?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered, PVC, chenille, woven, printed (sublimated), leather, sequin, silicone labels and hook-and-loop patches, plus keychains and PVC shoe charms."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I apply an iron-on patch?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A heat press gives the strongest bond: 160°C / 320°F for 15–20 seconds for most patches, then let it cool. With a household iron, set it for your fabric, cover the patch with a thin cloth and press firmly for 20–30 seconds. See the iron-on guide for each patch type."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I wash clothes with patches on them?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Wash inside out in cold water and air dry. Embroidered and PVC patches handle about 50 washes this way; sewn-on patches last the longest."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can patches be removed later?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sew-on patches come off by cutting the stitches. Iron-on patches can be loosened with heat and peeled, though some adhesive may remain. Velcro patches simply pull off."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is there a minimum order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Most patches start at 5 pieces. A few products have their own minimums, like 50 keychains or 100 shoe charms per design. The per-piece price drops as quantity goes up."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What sizes and shapes can I order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Any shape. Common sizes are 2.25–2.5 in for caps, 4–5 in for the left chest, 10–12 in across the chest and 12–14 in for jacket backs."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you make patches for hats?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Hat patches are sized to curve with the crown, in embroidery, leather, PVC or woven, with iron-on, sew-on or Velcro backing."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does an order take?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Most orders arrive 7–14 business days after you approve the proof. Rush production is available; tell us your date before you order so we can confirm it."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do I see a proof first?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Always. Every order gets a free digital proof with unlimited revisions, and nothing is produced until you approve it."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which backing should I choose?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sew-on for the most permanent hold, iron-on for quick near-permanent application, Velcro for patches you swap, and peel-and-stick for one-day use."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you take wholesale and resale orders?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Brands, decorators and distributors get monthly volume pricing, designs kept on file and white-label packaging."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Who orders custom patches in Arizona?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Work crews and service companies, fire and EMS departments, schools and booster clubs, sports teams, riding clubs, hat and apparel brands, breweries and restaurants, scouts, and families."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Will my bulk order look consistent?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Approved files and thread colors are kept on file and every run is inspected against the approved proof, so patch 5,000 matches patch 1."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you ship everywhere in Arizona?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Shipping is free and tracked to any Arizona address, from Phoenix and Tucson to Flagstaff, Yuma and small towns in between."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "iron-on-instructions": {
+  "title": "Iron-On Patch Instructions | Custom Patches Arizona",
+  "description": "Heat press temperatures and times for embroidered, chenille, PVC, printed, leather and silicone patches, plus household iron tips and care.",
+  "canonical": "https://custompatchesarizona.com/iron-on-instructions/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "not-found": {
+  "title": "Custom Patches Arizona | Custom Embroidered & PVC Patches",
+  "description": "Custom embroidered, PVC, chenille, woven, printed and leather patches for Arizona. 5-piece minimum, free design and digital proof, 7–14 business days delivered, free tracked shipping anywhere in Arizona.",
+  "canonical": "",
+  "robots": "noindex",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "privacy": {
+  "title": "Privacy Policy | Custom Patches Arizona",
+  "description": "How Custom Patches Arizona collects and uses information.",
+  "canonical": "https://custompatchesarizona.com/privacy/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "terms": {
+  "title": "Terms & Conditions | Custom Patches Arizona",
+  "description": "Terms for using the Custom Patches Arizona website and ordering custom products.",
+  "canonical": "https://custompatchesarizona.com/terms/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ },
+ "wholesale-custom-patches": {
+  "title": "Wholesale Custom Patches Arizona | White Label",
+  "description": "Wholesale patches for Arizona uniform suppliers, hat brands, promo distributors and decorators. Monthly volume pricing from $0.80, white label, designs kept on file.",
+  "canonical": "https://custompatchesarizona.com/wholesale-custom-patches/",
+  "robots": "",
+  "ogImage": "",
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Wholesale Patches",
+    "serviceType": "Wholesale Patches",
+    "description": "Wholesale patches for Arizona uniform suppliers, hat brands, promo distributors and decorators. Monthly volume pricing from $0.80, white label, designs kept on file.",
+    "url": "https://custompatchesarizona.com/wholesale-custom-patches/",
+    "provider": {
+     "@type": "Organization",
+     "name": "Custom Patches Arizona",
+     "url": "https://custompatchesarizona.com"
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://custompatchesarizona.com/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Patch styles",
+      "item": "https://custompatchesarizona.com/custom-patches/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Wholesale Patches",
+      "item": "https://custompatchesarizona.com/wholesale-custom-patches/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Is there a minimum order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No per-order minimum. Pricing is built on your monthly volume."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What patch types are available?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Embroidered, woven, PVC, chenille, leather and faux leather, with multiple backings."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I resell under my brand?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. White-label accounts are supported."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I start?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Send your monthly volume, patch types and application through the quote form. A sample order is a good first step."
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Custom Patches Arizona",
+    "url": "https://custompatchesarizona.com",
+    "email": "orders@custompatchesarizona.com",
+    "logo": "https://custompatchesarizona.com/favicon.svg",
+    "areaServed": {
+     "@type": "State",
+     "name": "Arizona"
+    }
+   }
+  ]
+ }
+}

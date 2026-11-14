@@ -1,0 +1,254 @@
+{
+ "options": [
+  {
+   "slug": "custom-embroidered-patches",
+   "name": "Embroidered Patches"
+  },
+  {
+   "slug": "custom-pvc-patches",
+   "name": "PVC Patches"
+  },
+  {
+   "slug": "custom-chenille-patches",
+   "name": "Chenille Patches"
+  },
+  {
+   "slug": "custom-woven-patches",
+   "name": "Woven Patches"
+  },
+  {
+   "slug": "custom-printed-patches",
+   "name": "Printed Patches"
+  },
+  {
+   "slug": "custom-leather-patches",
+   "name": "Leather Patches"
+  },
+  {
+   "slug": "custom-silicone-labels",
+   "name": "Silicone Labels"
+  },
+  {
+   "slug": "custom-sequin-patches",
+   "name": "Sequin Patches"
+  },
+  {
+   "slug": "custom-velcro-patches",
+   "name": "Velcro Patches"
+  },
+  {
+   "slug": "custom-keychains",
+   "name": "Keychains"
+  },
+  {
+   "slug": "custom-pvc-shoe-charms",
+   "name": "PVC Shoe Charms"
+  },
+  {
+   "slug": "custom-morale-patches",
+   "name": "Morale Patches"
+  },
+  {
+   "slug": "custom-firefighter-patches",
+   "name": "Firefighter Patches"
+  },
+  {
+   "slug": "custom-hockey-patches",
+   "name": "Hockey Patches"
+  },
+  {
+   "slug": "custom-soccer-patches",
+   "name": "Soccer Patches"
+  },
+  {
+   "slug": "custom-baseball-patches",
+   "name": "Baseball Patches"
+  },
+  {
+   "slug": "custom-hat-patches",
+   "name": "Hat Patches"
+  },
+  {
+   "slug": "custom-law-enforcement-patches",
+   "name": "Law Enforcement Patches"
+  },
+  {
+   "slug": "custom-name-patches",
+   "name": "Name Patches"
+  },
+  {
+   "slug": "custom-tactical-patches",
+   "name": "Tactical Patches"
+  },
+  {
+   "slug": "custom-jacket-patches",
+   "name": "Jacket Patches"
+  },
+  {
+   "slug": "custom-motorcycle-club-patches",
+   "name": "Motorcycle Club Patches"
+  },
+  {
+   "slug": "custom-rocker-patches",
+   "name": "Rocker Patches"
+  },
+  {
+   "slug": "custom-basketball-patches",
+   "name": "Basketball Patches"
+  },
+  {
+   "slug": "custom-football-patches",
+   "name": "Football Patches"
+  },
+  {
+   "slug": "custom-cowboy-patches",
+   "name": "Cowboy & Western Patches"
+  },
+  {
+   "slug": "custom-anime-patches",
+   "name": "Anime-Style Patches"
+  },
+  {
+   "slug": "custom-holiday-patches",
+   "name": "Holiday Patches"
+  },
+  {
+   "slug": "custom-bingo-patches",
+   "name": "Bingo Patches"
+  },
+  {
+   "slug": "wholesale-custom-patches",
+   "name": "Wholesale Patches"
+  }
+ ],
+ "pages": {
+  "contact": {
+   "preset": "",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-anime-patches": {
+   "preset": "custom-anime-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-baseball-patches": {
+   "preset": "custom-baseball-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-basketball-patches": {
+   "preset": "custom-basketball-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-bingo-patches": {
+   "preset": "custom-bingo-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-chenille-patches": {
+   "preset": "custom-chenille-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-cowboy-patches": {
+   "preset": "custom-cowboy-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-embroidered-patches": {
+   "preset": "custom-embroidered-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-firefighter-patches": {
+   "preset": "custom-firefighter-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-football-patches": {
+   "preset": "custom-football-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-hat-patches": {
+   "preset": "custom-hat-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-hockey-patches": {
+   "preset": "custom-hockey-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-holiday-patches": {
+   "preset": "custom-holiday-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-jacket-patches": {
+   "preset": "custom-jacket-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-keychains": {
+   "preset": "custom-keychains",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-law-enforcement-patches": {
+   "preset": "custom-law-enforcement-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-leather-patches": {
+   "preset": "custom-leather-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-morale-patches": {
+   "preset": "custom-morale-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-motorcycle-club-patches": {
+   "preset": "custom-motorcycle-club-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-name-patches": {
+   "preset": "custom-name-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-printed-patches": {
+   "preset": "custom-printed-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-pvc-patches": {
+   "preset": "custom-pvc-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-pvc-shoe-charms": {
+   "preset": "custom-pvc-shoe-charms",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-rocker-patches": {
+   "preset": "custom-rocker-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-sequin-patches": {
+   "preset": "custom-sequin-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-silicone-labels": {
+   "preset": "custom-silicone-labels",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-soccer-patches": {
+   "preset": "custom-soccer-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-tactical-patches": {
+   "preset": "custom-tactical-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-velcro-patches": {
+   "preset": "custom-velcro-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "custom-woven-patches": {
+   "preset": "custom-woven-patches",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "home": {
+   "preset": "",
+   "email": "orders@custompatchesarizona.com"
+  },
+  "wholesale-custom-patches": {
+   "preset": "wholesale-custom-patches",
+   "email": "orders@custompatchesarizona.com"
+  }
+ }
+}
