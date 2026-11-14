@@ -1,0 +1,102 @@
+{
+  "custom-embroidered-patches": {
+    "heading": "Embroidered patches we've made",
+    "photos": [
+      { "src": "2025/10/01-15-298x300.webp", "file": "embroidered-cat-ramen", "alt": "Embroidered patch of a cat eating ramen with a satin-stitch border" },
+      { "src": "2025/10/01-16-298x300.webp", "file": "embroidered-fan-portrait", "alt": "Detailed embroidered patch with a portrait and folding fan" },
+      { "src": "2025/10/emb-1-1.avif", "file": "embroidered-eagle-flag", "alt": "Embroidered shield patch with an eagle and flag" },
+      { "src": "2025/10/4U7C4684-01-1.avif", "file": "embroidered-red-shield", "alt": "Red embroidered shield patch with a merrowed border" }
+    ]
+  },
+  "custom-pvc-patches": {
+    "heading": "PVC patches we've made",
+    "photos": [
+      { "src": "2026/09/Shield-Patch-for-Plumbing-company-300x300.png", "file": "pvc-shield-logo", "alt": "Blue and green PVC shield logo patch for a service company" },
+      { "src": "2026/09/KCBM-PVc-Patch-300x300.png", "file": "pvc-round-green-orange", "alt": "Round green and orange 3D PVC patch with raised lettering" },
+      { "src": "2025/10/Glow-in-the-Dark-PVC_2-300x300-1.webp", "file": "pvc-glow-in-the-dark", "alt": "Glow-in-the-dark PVC patch" }
+    ]
+  },
+  "custom-chenille-patches": {
+    "heading": "Chenille patches we've made",
+    "photos": [
+      { "src": "2025/10/testimonal6-1.avif", "file": "chenille-letter-green", "alt": "Green chenille varsity letter patch with felt backing" },
+      { "src": "2025/10/testimonal8.avif", "file": "chenille-letter-purple", "alt": "Purple chenille varsity letter patch" },
+      { "src": "2025/10/Embroidered-Detailing-3-Inches_2-300x300-1.webp", "file": "chenille-embroidered-detail", "alt": "Chenille patch with embroidered detailing" },
+      { "src": "2025/10/123-1.webp", "file": "chenille-script", "alt": "Chenille script lettering patches in green and gold" }
+    ]
+  },
+  "custom-woven-patches": {
+    "heading": "Woven patches we've made",
+    "photos": [
+      { "src": "2026/10/Isolated-Ottawa-Hills-Patch-768x778.png", "file": "woven-crest", "alt": "Black and white woven crest patch with fine line detail" },
+      { "src": "2026/10/Single-OPSIGNAL-blue-eyes-patch-768x512.png", "file": "woven-small-text", "alt": "Woven patch with small sharp lettering and blue eyes artwork" },
+      { "src": "2026/10/Embroidered-WWII-Aircraft-Crew-Chief-Patch-300x150.png", "file": "woven-aircraft", "alt": "Rectangular woven patch with aircraft artwork and a yellow border" },
+      { "src": "2026/10/05_Draht_Company_original-768x743.png", "file": "woven-round-red", "alt": "Round red and black woven patch with a bold border" }
+    ]
+  },
+  "custom-printed-patches": {
+    "heading": "Printed patches we've made",
+    "photos": [
+      { "src": "2025/10/02-5.jpg", "file": "printed-horse-sunset", "alt": "Full-color printed patch of a horse against a sunset" },
+      { "src": "2025/10/White-Lustrous-Fine-Polyester-Twill_1-300x300-1.webp", "file": "printed-round-character", "alt": "Round printed patch on white polyester twill" },
+      { "src": "2025/10/testimonal2-4.avif", "file": "printed-palms", "alt": "Photo-quality printed patch with palm trees" },
+      { "src": "2025/10/03-4.jpg", "file": "printed-yellow-crest", "alt": "Yellow and black printed crest patch" }
+    ]
+  },
+  "custom-leather-patches": {
+    "heading": "Leather patches we've made",
+    "photos": [
+      { "src": "2025/10/custom-leather-patch-embossed.webp", "file": "leather-embossed", "alt": "Embossed tan leather patch with stitched edge" },
+      { "src": "2025/10/leather-patch-on-denim-jacket.webp", "file": "leather-hexagon-denim", "alt": "Hexagon leather patch sewn on a denim jacket" },
+      { "src": "2025/10/custom-leather-patches-flatlay-usa.webp", "file": "leather-engraved", "alt": "Laser-engraved rectangular leather patches" },
+      { "src": "2025/10/testimonal2-3.webp", "file": "leather-debossed-light", "alt": "Light tan debossed leather patch" }
+    ]
+  },
+  "custom-silicone-labels": {
+    "heading": "Silicone labels we've made",
+    "photos": [
+      { "src": "2025/10/ppllkk-1-5.jpg", "file": "silicone-label-grey", "alt": "Raised silicone logo label heat-pressed on grey fabric" },
+      { "src": "2025/10/testimonal3-5-1.jpg", "file": "silicone-label-athletic", "alt": "Black raised 3D silicone label on athletic wear" },
+      { "src": "2025/10/testimonal2-5.jpg", "file": "silicone-label-black", "alt": "White raised silicone lettering on a black garment" }
+    ]
+  },
+  "custom-sequin-patches": {
+    "heading": "Sequin patches we've made",
+    "photos": [
+      { "src": "2026/10/Black-and-gold-tiger-sequin-patch-2-768x768.png", "file": "sequin-tiger", "alt": "Black and gold sequin tiger patch" },
+      { "src": "2026/10/Cowgirl-hat-boots-and-bow-patches-1-768x768.png", "file": "sequin-cowgirl", "alt": "Sequin patch set of a cowgirl hat, boots and bow" },
+      { "src": "2026/10/Blue-varsity-W-cheer-patch-18-768x768.png", "file": "sequin-cheer-letter", "alt": "Blue sequin varsity letter cheer patch" },
+      { "src": "2026/10/Blue-gold-racers-sequin-patch-16-1-300x300.png", "file": "sequin-script", "alt": "Blue and gold sequin script lettering patch" }
+    ]
+  },
+  "custom-keychains": {
+    "heading": "Keychains we've made",
+    "photos": [
+      { "src": "2025/10/ppllkk-1-7.jpg", "file": "keychain-pvc-character", "alt": "3D PVC character keychain" },
+      { "src": "2025/10/03-8.jpg", "file": "keychain-pvc-dog", "alt": "Soft PVC dog keychain" },
+      { "src": "2025/10/testimonal4-6.avif", "file": "keychain-house", "alt": "Pink house-shaped custom keychain" },
+      { "src": "2025/10/9a34f16b7d-300x300-1.avif", "file": "keychain-pineapple", "alt": "Pineapple PVC keychain with sunglasses" }
+    ]
+  },
+  "custom-pvc-shoe-charms": {
+    "heading": "Shoe charms we've made",
+    "photos": [
+      { "src": "2025/10/testimonal6-2.jpg", "file": "charm-red-emblem", "alt": "Red and white custom PVC shoe charm" },
+      { "src": "2025/10/testimonal5-3.jpg", "file": "charm-lettering", "alt": "Custom PVC shoe charm with bold lettering" },
+      { "src": "2025/10/ppllkk-1-6.avif", "file": "charm-assorted", "alt": "Assorted custom PVC shoe charms" }
+    ]
+  },
+  "custom-firefighter-patches": {
+    "heading": "Firefighter patches we've made",
+    "photos": [
+      { "src": "2026/02/firefighter-embroidery-patches-1-768x512.webp", "file": "firefighter-set", "alt": "Set of embroidered firefighter patches in red, gold and black" }
+    ]
+  },
+  "custom-hat-patches": {
+    "heading": "Hat patches we've made",
+    "photos": [
+      { "src": "2025/10/01-17-298x300.webp", "file": "hat-shield-sign", "alt": "Embroidered highway-shield style hat patch" },
+      { "src": "2025/10/testimonal7-1.avif", "file": "hat-camo-letter", "alt": "Camo chenille letter patch for hats" }
+    ]
+  }
+}

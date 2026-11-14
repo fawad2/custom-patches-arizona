@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { pageHtml, slugs } from "@/lib/content";
+import { pageWithGallery, slugs } from "@/lib/content";
 import { metaFor } from "@/lib/metadata";
 import { JsonLd } from "@/components/Html";
 
@@ -15,7 +15,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
   if (!slugs().includes(slug)) notFound();
   return (
     <>
-      <main id="main" dangerouslySetInnerHTML={{ __html: pageHtml(slug) }} />
+      <main id="main" dangerouslySetInnerHTML={{ __html: pageWithGallery(slug) }} />
       <JsonLd slug={slug} />
     </>
   );
