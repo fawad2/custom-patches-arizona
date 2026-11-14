@@ -202,8 +202,8 @@
    "kind": "Patch",
    "print": "Velcro",
    "art": "velcro",
-   "tag": "Quote",
-   "price": "Priced on quote",
+   "tag": "$0.85",
+   "price": "From $0.85 / pc at 5,000+",
    "lede": "Hook-and-loop patches with the hook side already attached. Press them onto any loop field on a hat, jacket panel, pack or plate carrier, and swap them whenever the job changes.",
    "facts": [
     {
@@ -230,8 +230,8 @@
    "kind": "Patch",
    "print": "Silicone",
    "art": "silicone",
-   "tag": "Quote",
-   "price": "Priced on quote",
+   "tag": "$2.50",
+   "price": "From $2.50 / pc",
    "lede": "Silicone labels are soft, rubber-like heat transfers with a raised 3D surface. They press straight onto fabric with no sewing, stay flexible, and hold up to sweat and water.",
    "facts": [
     {
