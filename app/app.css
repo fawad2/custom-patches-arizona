@@ -8,3 +8,10 @@
 .photo-grid img{width:100%;height:100%;object-fit:contain;display:block}
 .photo-grid--1 figure{aspect-ratio:3/2}
 @media (max-width:760px){.photo-grid,.photo-grid--3{grid-template-columns:repeat(2,minmax(0,1fr))}.photo-grid--1{grid-template-columns:1fr}}
+
+/* HTML sitemap */
+.sitemap-list{list-style:none;margin:0;padding:0;display:grid;gap:18px 32px;grid-template-columns:repeat(2,minmax(0,1fr))}
+.sitemap-list a{font-weight:600;color:inherit;text-decoration:underline;text-decoration-color:rgba(181,86,44,.5);text-underline-offset:3px}
+.sitemap-list a:hover{color:#b5562c}
+.sitemap-list p{margin:4px 0 0;font-size:14px;color:#5b6168;line-height:1.45}
+@media (max-width:760px){.sitemap-list{grid-template-columns:1fr}}
